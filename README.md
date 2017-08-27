@@ -2,6 +2,9 @@
 
 Simply add admob to your android project using kotlin programming and 
 using firebase.Firebase help to easy to connect admob and track of them.
+
+Implementing following: 
+
 - **[Kotlin](https://kotlinlang.org/)**
 - **[Firebase](https://firebase.google.com/docs/android/setup)**
 - **[Admob](https://www.google.com/admob/)**
